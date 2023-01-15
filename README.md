@@ -17,7 +17,7 @@ Henry Merch is an ecommerce created by 4 students to finish the Coding Bootcamp 
 
 ## Authors
 
-Nicolas Fernandez __
-Isa Mesina __
-Jonthan Moran __
+Nicolas Fernandez _ _
+Isa Mesina _ _
+Jonthan Moran _ _
 Lia Destefani

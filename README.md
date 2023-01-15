@@ -14,3 +14,10 @@ Henry Merch is an ecommerce created by 4 students to finish the Coding Bootcamp 
 - MongoDb
 - Mongoose
 - Express
+
+## Authors
+
+Nicolas Fernandez
+Isa Mesina
+Jonthan Moran
+Lia Destefani
